@@ -1,2 +1,2 @@
 # ehms
-Electronic Health Management System
+This is a staff log-in page
